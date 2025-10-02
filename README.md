@@ -65,7 +65,8 @@ Conv2D → MaxPooling → Flatten → Dense → Output
 ## 📊 مثال للنتائج
 
 دقة النموذج على بيانات الاختبار: ~98% 🎉
-<img width="677" height="735" alt="image" src="https://github.com/user-attachments/assets/3eea953a-8354-4e90-8308-ba595d12dba3" />
+
+<img width="377" height="435" alt="image" src="https://github.com/user-attachments/assets/3eea953a-8354-4e90-8308-ba595d12dba3" />
 
 
 النموذج قادر على التمييز بين جميع الأرقام اليدوية.
